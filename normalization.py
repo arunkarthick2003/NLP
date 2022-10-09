@@ -1,3 +1,4 @@
+#this file has both stemming and lemmatization
 from nltk.stem import PorterStemmer
 from nltk.tokenize import word_tokenize
 ps=PorterStemmer()
